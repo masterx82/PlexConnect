@@ -183,7 +183,7 @@ if __name__=="__main__":
     dprint('PlexConnect', 0, "***")
     dprint('PlexConnect', 0, "PlexConnect")
     dprint('PlexConnect', 0, "Press CTRL-C to shut down.")
-    dprint('PlexConnect', 0, "*x**")
+    dprint('PlexConnect', 0, "***")
     
     running = startup()
     
